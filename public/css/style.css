@@ -1,0 +1,39 @@
+body{
+	background-image:url('../images/blue.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.title{
+	text-align: center !important;
+	color: blue;
+}
+
+#whiteBox{
+    background-color:white;
+    background-size: 100%;
+}
+h2{
+	font-family: "righteous", "cursive";
+}
+h6{
+	font-family: "righteous", "cursive";
+}
+
+#welcome {
+	font-family: "arial";
+	text-align: center;
+}
+#elem {
+	font-family: "arial";
+	text-align: center;
+	font-size: 10px;
+
+}
+#classTest{
+	font-family: "righteous", "cursive";
+	text-align: center;
+}
+#navBar{
+	background-color: #3eabb7;
+}
